@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Sil0vzam",
-  "version": "1.0.0",
+  "version": "1.0",
   "description": "An audio recognition extension for the browser.",
   "permissions": [
     "tabCapture",
@@ -9,7 +9,7 @@
     "storage"
   ],
   "action": {
-    "default_popup": "popup.html",
+    "default_popup": "popup.html"
   },
   "background": {
     "service_worker": "background.js"
