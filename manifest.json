@@ -1,0 +1,5 @@
+{
+  "manifest_version": 3,
+  "permissions": ["tabCapture", "activeTab"],
+  "action": { "default_popup": "popup.html" }
+}
